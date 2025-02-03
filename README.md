@@ -38,8 +38,7 @@ An interactive Streamlit dashboard for analyzing air filter performance with adv
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/air-filter-analysis.git
+
 cd air-filter-analysis
 ```
 
@@ -92,6 +91,3 @@ The dashboard expects a CSV file with the following columns:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
