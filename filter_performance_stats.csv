@@ -1,0 +1,7 @@
+,efficiency,efficiency,pressure_drop_pa,pressure_drop_pa,pm25_removal_efficiency,pm10_removal_efficiency,filter_age_days
+,mean,std,mean,std,mean,mean,mean
+filter_class,,,,,,,
+Activated Carbon,0.9,0.02,83.22,24.16,90.02,90.02,26.83
+Electrostatic,0.88,0.01,50.85,19.21,87.8,87.8,16.5
+HEPA,0.97,0.01,117.27,22.93,96.7,96.46,17.41
+Pre-Filter,0.87,0.01,30.81,13.42,86.7,86.7,7.75

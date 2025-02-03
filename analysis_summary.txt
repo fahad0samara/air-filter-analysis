@@ -1,0 +1,34 @@
+Air Filter Performance Analysis Summary
+=====================================
+
+1. Correlation Analysis:
+  - filter_age_days vs load_factor: 0.670
+  - filter_age_days vs pressure_drop_pa: 0.620
+  - pressure_drop_pa vs efficiency: 0.677
+  - pressure_drop_pa vs outlet_pm25: -0.524
+  - pressure_drop_pa vs outlet_pm10: -0.537
+  - efficiency vs outlet_pm25: -0.926
+  - efficiency vs outlet_pm10: -0.931
+  - outlet_pm25 vs outlet_pm10: 0.897
+
+2. Efficiency Analysis by Filter Type:
+
+Electrostatic:
+  - Average efficiency: 0.878
+  - Efficiency degradation rate: -0.001330 per day
+  - Average performance ratio: 0.021
+
+HEPA:
+  - Average efficiency: 0.968
+  - Efficiency degradation rate: -0.001255 per day
+  - Average performance ratio: 0.009
+
+Pre-Filter:
+  - Average efficiency: 0.867
+  - Efficiency degradation rate: -0.001677 per day
+  - Average performance ratio: 0.036
+
+Activated Carbon:
+  - Average efficiency: 0.900
+  - Efficiency degradation rate: -0.001108 per day
+  - Average performance ratio: 0.012

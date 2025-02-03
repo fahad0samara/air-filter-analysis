@@ -1,0 +1,47 @@
+Air Filter Analysis Results
+=========================
+
+
+Electrostatic:
+Efficiency Decline Rate: -0.133% per day
+Optimal Replacement Age: 27.9 days
+Maximum Efficiency: 0.904
+Average Efficiency: 0.878
+PM2.5 Removal: 87.7%
+PM10 Removal: 87.7%
+Cost per Day: 2.51
+Cost per Efficiency Unit: 2.86
+----------------------------------------
+
+HEPA:
+Efficiency Decline Rate: -0.125% per day
+Optimal Replacement Age: 32.0 days
+Maximum Efficiency: 0.995
+Average Efficiency: 0.968
+PM2.5 Removal: 96.6%
+PM10 Removal: 96.4%
+Cost per Day: 3.13
+Cost per Efficiency Unit: 3.23
+----------------------------------------
+
+Pre-Filter:
+Efficiency Decline Rate: -0.168% per day
+Optimal Replacement Age: 15.2 days
+Maximum Efficiency: 0.885
+Average Efficiency: 0.867
+PM2.5 Removal: 86.7%
+PM10 Removal: 86.7%
+Cost per Day: 1.97
+Cost per Efficiency Unit: 2.27
+----------------------------------------
+
+Activated Carbon:
+Efficiency Decline Rate: -0.111% per day
+Optimal Replacement Age: 34.1 days
+Maximum Efficiency: 0.934
+Average Efficiency: 0.900
+PM2.5 Removal: 89.9%
+PM10 Removal: 89.9%
+Cost per Day: 2.35
+Cost per Efficiency Unit: 2.61
+----------------------------------------

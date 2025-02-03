@@ -1,0 +1,7 @@
+,efficiency,efficiency,efficiency,efficiency,pressure_drop_pa,pressure_drop_pa,pressure_drop_pa,pressure_drop_pa,performance_ratio,performance_ratio,filter_age_days,filter_age_days
+,mean,std,min,max,mean,std,min,max,mean,std,mean,std
+filter_class,,,,,,,,,,,,
+Activated Carbon,0.9,0.017,0.864,0.934,83.223,24.155,30.2,141.3,0.012,0.004,26.834,14.967
+Electrostatic,0.878,0.013,0.85,0.904,50.845,19.213,10.5,97.7,0.021,0.011,16.501,9.856
+HEPA,0.968,0.013,0.879,0.995,117.273,22.931,70.9,215.1,0.009,0.002,17.41,10.186
+Pre-Filter,0.867,0.008,0.742,0.885,30.811,13.425,10.0,135.6,0.036,0.02,7.752,4.478

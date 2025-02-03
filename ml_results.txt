@@ -1,0 +1,95 @@
+Machine Learning Analysis Results
+==============================
+
+
+Electrostatic:
+------------------------------
+
+Random Forest:
+R² Score: 0.948
+RMSE: 0.0031
+MAE: 0.0026
+
+Gradient Boosting:
+R² Score: 0.950
+RMSE: 0.0030
+MAE: 0.0026
+
+SVR:
+R² Score: -0.010
+RMSE: 0.0135
+MAE: 0.0117
+
+Linear Regression:
+R² Score: 0.951
+RMSE: 0.0030
+MAE: 0.0026
+
+HEPA:
+------------------------------
+
+Random Forest:
+R² Score: 0.947
+RMSE: 0.0030
+MAE: 0.0026
+
+Gradient Boosting:
+R² Score: 0.950
+RMSE: 0.0029
+MAE: 0.0025
+
+SVR:
+R² Score: -5.869
+RMSE: 0.0342
+MAE: 0.0316
+
+Linear Regression:
+R² Score: 0.950
+RMSE: 0.0029
+MAE: 0.0025
+
+Pre-Filter:
+------------------------------
+
+Random Forest:
+R² Score: 0.874
+RMSE: 0.0030
+MAE: 0.0025
+
+Gradient Boosting:
+R² Score: 0.869
+RMSE: 0.0030
+MAE: 0.0025
+
+SVR:
+R² Score: -41.242
+RMSE: 0.0543
+MAE: 0.0537
+
+Linear Regression:
+R² Score: 0.797
+RMSE: 0.0038
+MAE: 0.0026
+
+Activated Carbon:
+------------------------------
+
+Random Forest:
+R² Score: 0.968
+RMSE: 0.0030
+MAE: 0.0026
+
+Gradient Boosting:
+R² Score: 0.969
+RMSE: 0.0029
+MAE: 0.0025
+
+SVR:
+R² Score: -0.003
+RMSE: 0.0168
+MAE: 0.0145
+
+Linear Regression:
+R² Score: 0.971
+RMSE: 0.0029
+MAE: 0.0025

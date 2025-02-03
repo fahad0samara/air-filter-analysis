@@ -1,0 +1,32 @@
+Final Machine Learning Analysis Results
+====================================
+
+Model Performance Summary:
+                                      R2      RMSE       MAE
+Filter_Type      Model                                      
+Activated Carbon Random Forest  0.969042  0.002946  0.002507
+Electrostatic    Random Forest  0.949730  0.003020  0.002552
+HEPA             Random Forest  0.949810  0.002921  0.002508
+Pre-Filter       Random Forest  0.871159  0.002997  0.002513
+
+Maintenance Recommendations:
+
+Electrostatic:
+R² Score: 0.950
+RMSE: 0.0030
+MAE: 0.0026
+
+HEPA:
+R² Score: 0.950
+RMSE: 0.0029
+MAE: 0.0025
+
+Pre-Filter:
+R² Score: 0.871
+RMSE: 0.0030
+MAE: 0.0025
+
+Activated Carbon:
+R² Score: 0.969
+RMSE: 0.0029
+MAE: 0.0025
